@@ -15,22 +15,22 @@ ML · NLP · LLMs · RAG · GenAI · Multimodal AI · AI Agents
 
 ## Tech Stack
 
-**Programming**
+**Programming**<br>
 Python · SQL · C++ · Java · PHP
 
-**Machine Learning & AI**
+**Machine Learning & AI**<br>
 TensorFlow · PyTorch · Scikit-learn · NLTK · OpenCV
 
-**Generative AI & RAG**
+**Generative AI & RAG**<br>
 LLMs · RAG · Ollama · LLaVA · Llama 3.2 · ChromaDB
 
-**Data Science & Visualization**
+**Data Science & Visualization**<br>
 Pandas · NumPy · Matplotlib · Seaborn · Power BI · Tableau
 
-**Backend & Cloud**
+**Backend & Cloud**<br>
 FastAPI · Docker · Firebase · Firestore
 
-**Databases & Development**
+**Databases & Development**<br>
 MySQL · Streamlit
 
 ---
