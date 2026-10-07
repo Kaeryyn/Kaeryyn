@@ -13,7 +13,7 @@ ML · NLP · LLMs · RAG · GenAI · Multimodal AI · AI Agents
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Programming**
 Python · SQL · C++ · Java · PHP
