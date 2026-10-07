@@ -1,4 +1,4 @@
-# Hi, I'm Arpita 👋
+# Hey, I'm Arpitaa!
 
 ### MSc Artificial Intelligence Student | Data Science Graduate
 
